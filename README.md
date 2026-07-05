@@ -13,7 +13,7 @@
 - 💡 Focused on **machine learning**, **software systems**, and **practical, real-world applications**
 - 🔭 Currently building projects across **RAG systems**, **computer vision**, and **full-stack development**
 - 🌱 Always exploring new tools in the AI/ML and systems space
-- 📫 Reach me at: **[your.email@example.com]**
+- 📫 Reach me at: **[yuvindu2001@gmail.com](mailto:yuvindu2001@gmail.com)**
 
 ---
 
